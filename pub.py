@@ -33,7 +33,7 @@ base_topic = url.path[1:]
 
 # Connect
 username="fxwalsh"
-password="Bzxy8n123"
+password="xxx"
 
 # enable TLS for secure connection
 mqttc.tls_set(tls_version=mqtt.client.ssl.PROTOCOL_TLS)
